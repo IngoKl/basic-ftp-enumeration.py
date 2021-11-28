@@ -45,6 +45,7 @@ def print_log():
             print(f'[+] {check}\n')
             for _ in result:
                 print(_)
+            print('\n')
         else:
             print(f'[+] {check}\n{result}\n')
 
