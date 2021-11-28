@@ -3,7 +3,7 @@ A simple FTP enumeration script written in Python 3.
 
 ## Installation
 
-There's a very simple `install.sh` included which will create a symlink to `/usr/bin/basic-ftp-enumeration.py`
+There's a very simple `install.sh` included which will create a symlink to `/usr/bin/basic-ftp-enumeration.py`.
 
 ## Usage
 
